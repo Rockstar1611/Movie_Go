@@ -1,7 +1,7 @@
-# Netflix_clone
-Project Description – Netflix Clone
+# Movie_India
+Project Description – Movie_India
 
-This project is a Netflix-inspired web application that replicates the user interface and core features of the popular streaming platform. It was developed to strengthen my frontend development skills and demonstrate the ability to build real-world applications with modern web technologies.
+This project is a Movie-India web application that replicates the user interface and core features of the popular streaming platform. It was developed to strengthen my frontend development skills and demonstrate the ability to build real-world applications with modern web technologies.
 
 Key Features :
 
